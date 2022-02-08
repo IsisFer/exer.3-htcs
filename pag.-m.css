@@ -1,0 +1,35 @@
+.mh {
+    
+    background-color: grey;
+    padding: 0px;
+    text-align: center;
+    color: white;  
+    
+
+        }
+
+.ver {
+
+    background-color: red;
+    padding: 10px;
+    margin:0;
+
+}
+
+.mg {
+
+    background-color: green;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.mp {
+
+    background-color: green;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+}
+
